@@ -44,7 +44,7 @@ response = agent.invoke(
         'messages':[
             {
                 'role': 'user',
-                'content': 'What is the current weather in kahatagasdigiliya?'
+                'content': 'What is the current weather in new york?'
             }
         ]
     }
