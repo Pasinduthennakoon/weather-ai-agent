@@ -222,14 +222,6 @@ agent = create_agent(
 
 ## Troubleshooting
 
-### `KeyError: 'Structured_response'`
-
-Use the lowercase key:
-
-```python
-response["structured_response"]
-```
-
 ### OpenAI Authentication Error
 
 Confirm that the `.env` file contains a valid key:
